@@ -5,7 +5,8 @@
 	- Flow/Service using which structured data of parsed vacancies gets accesable to the user.
 	  There are several ways via which users can get hands on these data. 
 	  	1) Messanger Chat Bot. Interactive bot talks to user and gives him/her needed data
-	  	2) Web UI  
+	  	2) Web UI
+  
 
 
 ![jobsApi diagram](media/diagram.png)
