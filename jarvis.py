@@ -28,8 +28,6 @@ class CustomJarvis(Client):
 		if author_id != self.uid:
 			self.send(Message(text=response), thread_id=thread_id, thread_type=thread_type)
 
-		self.markAsDelivered(author_id, thread_id);
-
 
 my_jarvis=CustomJarvis(username, password)
 
