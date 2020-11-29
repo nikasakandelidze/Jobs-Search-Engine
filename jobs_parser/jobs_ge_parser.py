@@ -88,6 +88,5 @@ def get_parsed_vacanies():
 if __name__ == "__main__":
 	list_of_parsed_vacancies = get_parsed_vacanies()
     
-    
        
 	
