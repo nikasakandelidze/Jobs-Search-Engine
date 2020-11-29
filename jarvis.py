@@ -13,13 +13,15 @@ fbchat._state.FB_DTSG_REGEX = re.compile(r'"name":"fb_dtsg","value":"(.*?)"')
 username='zoro58767@gmail.com'
 password='zorozoro1234'
 
+response_default_positive_resposne='yes, here are the results: \n\n'
+
 
 class CustomJarvis(Client):
 	def onMessage(self, mid, author_id, message_object, thread_id, thread_type, ts, metadata, msg, **kwargs):
 
 		actual_message = message_object.text
 
-		response=generate_response_depending_on_input(actual_message)
+		response=response_default_positive_resposne+generate_response_depending_on_input(actual_message)
 
 		self.markAsRead(author_id)
 

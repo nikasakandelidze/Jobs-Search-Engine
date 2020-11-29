@@ -7,7 +7,7 @@ from jobs_reader import get_list_of_vacancies_from_presistenct_source
 def get_links_of_vacancies_as_concated_string(list_of_vacancies):
 	result_string=''
 	for vacancy in list_of_vacancies:
-		result_string+=vacancy['company'] + " : "+vacancy['link']+'\n'
+		result_string+=vacancy['company'] + " : "+vacancy['link']+'\n\n'
 	return result_string
 
 def generate_response_depending_on_input(input):

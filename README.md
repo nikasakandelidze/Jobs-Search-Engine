@@ -10,3 +10,7 @@
 
 
 ![jobsApi diagram](media/diagram.png)
+
+
+# **Integrated Messanger Chat bot Beta Screenshot**
+![chat bot](media/bot_response.png)
