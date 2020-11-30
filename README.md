@@ -18,4 +18,4 @@
 
 
 # **Contributions Policy**
-	I don't even know what the heck is policy, so if you would like to contribute please contact me, it'll be grate to work together. 
+	I don't even know what the heck is policy,:)  soo if you would like to contribute please contact me, it'll be cool to work together. 
