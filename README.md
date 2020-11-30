@@ -12,5 +12,10 @@
 ![jobsApi diagram](media/diagram.png)
 
 
-# **Integrated Messanger Chat bot Beta Screenshot**
+# **Integrated Beta Version of Messanger Chat bot "Screenshot"**
 ![chat bot](media/bot_response.png)
+
+
+
+# **Contributions Policy**
+	I don't even know what the heck is policy, so if you would like to contribute please contact me, it'll be grate to work together. 
