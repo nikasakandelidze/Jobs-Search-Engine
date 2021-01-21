@@ -19,3 +19,6 @@
 
 # **Contributions Policy**
 	I don't even know what the heck is policy,:)  soo if you would like to contribute please contact me, it'll be cool to work together. 
+
+# **Future**
+	Adding jobs searching functionality using Elastic-Search as search-engine for these jobs list
